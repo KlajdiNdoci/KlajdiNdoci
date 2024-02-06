@@ -9,4 +9,5 @@ Se state cercando un giovane sviluppatore full-stack con competenze specifiche e
 Potete contattarmi via email a klajdindoci@gmail.com
 
 Languages and Tools:
-angular bootstrap c css3 git html5 java javascript mssql nodejs postgresql sass spring typescript
+React.js bootstrap c css3 git html5 java javascript mssql nodejs postgresql sass spring typescript
+![React-icon svg](https://github.com/KlajdiNdoci/KlajdiNdoci/assets/135972499/3a500368-54a1-436f-b960-7ed19d85c29a)
