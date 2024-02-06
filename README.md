@@ -9,4 +9,5 @@ Se state cercando un giovane sviluppatore full-stack con competenze specifiche e
 Potete contattarmi via email a klajdindoci@gmail.com
 
 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,node,git,typescript,sass,postgresql)](https://skillicons.dev)
