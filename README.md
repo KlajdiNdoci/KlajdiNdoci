@@ -9,4 +9,4 @@ Se state cercando un giovane sviluppatore full-stack con competenze specifiche e
 Potete contattarmi via email a klajdindoci@gmail.com
 
 Languages and Tools:
-React.js [bootstrap](https://getbootstrap.com/) css3 git html5 java javascript PostgreSQL [nodejs](https://nodejs.org/en) postgresql sass spring typescript
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
