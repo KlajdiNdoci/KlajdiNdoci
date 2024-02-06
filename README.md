@@ -12,4 +12,4 @@ Contact me:
 
 Languages:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,node,git,typescript,sass,postgresql,redux)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,nodejs,git,typescript,sass,postgresql,redux)
