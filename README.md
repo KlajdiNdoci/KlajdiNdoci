@@ -6,8 +6,10 @@ Sono fermamente convinto che il successo online sia il risultato di un mix equil
 
 Se state cercando un giovane sviluppatore full-stack con competenze specifiche e la voglia di affrontare sfide entusiasmanti, non esitate a contattarmi. Sono pronto a mettere le mie competenze al servizio dei vostri progetti di successo!
 
-Potete contattarmi via email a klajdindoci@gmail.com
+Contact me:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/klajdindocideveloperweb/))
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,node,git,typescript,sass,postgresql,redux)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,node,git,typescript,sass,postgresql,redux)
