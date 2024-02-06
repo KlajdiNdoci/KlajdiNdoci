@@ -10,4 +10,4 @@ Potete contattarmi via email a klajdindoci@gmail.com
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,node,git,typescript,sass,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,bootstrap,spring,node,git,typescript,sass,postgresql,redux)](https://skillicons.dev)
