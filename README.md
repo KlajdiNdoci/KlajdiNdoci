@@ -8,7 +8,7 @@ Se state cercando un giovane sviluppatore full-stack con competenze specifiche e
 
 Contact me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/klajdindocideveloperweb/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/klajdindocideveloperweb/))]
 
 Languages:
 
